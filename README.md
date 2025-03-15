@@ -1,0 +1,1 @@
+# docker-jenkins-java-assi
